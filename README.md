@@ -15,6 +15,7 @@
 		- [Transaction Hashes](#transaction-hashes)
 - [Frontend](#frontend)
 	- [Frontend screenshots](#frontend-screenshots)
+	- [Frontend Online - Vue (Enterprise SupplyChain)](## Frontend Online - Vue (Enterprise SupplyChain))
 	- [Frontend screenshots](#frontend-screenshots)
 
 # Smart Contract - step by step
@@ -203,7 +204,8 @@ contract address:    0x4975415603247b763A9a315E23923fE29f4BD220
 deployment transaction hash:   <https://rinkeby.etherscan.io/tx/0x575c4e7023d2a4536337556d5e9cd07c9c46af8b0efbab3821026305a42c3764>
 
 
-# Frontend (consumer Dapp)
+# Frontend 
+# Frontend(consumer Dapp)
 
 For running the Front End of the DAPP, open another terminal window and go inside the project directory, and run:
 
@@ -213,6 +215,8 @@ For running the Front End of the DAPP, open another terminal window and go insid
 ```
 ## Frontend screenshots
 ![alt text](images/frontend1.jpg "Token")
+
+Hosted website through github pages: https://ck-lim.github.io/brillinsupplychain/
 
 ## Frontend Online - Vue (Enterprise SupplyChain)
 
