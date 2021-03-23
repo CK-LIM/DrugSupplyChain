@@ -14,8 +14,9 @@
 		- [Contract Address](#contract-address)
 		- [Transaction Hashes](#transaction-hashes)
 - [Frontend](#frontend)
+	- [Frontend - Consumer Dapp](#Frontend-Consumer-Dapp) 	
 	- [Frontend screenshots](#frontend-screenshots)
-	- [Frontend Online - Vue (Enterprise SupplyChain)](## Frontend Online - Vue (Enterprise SupplyChain))
+	- [Frontend Online - Vue - Enterprise SupplyChain](##Frontend-Online---Vue---Enterprise-SupplyChain)
 	- [Frontend screenshots](#frontend-screenshots)
 
 # Smart Contract - step by step
@@ -205,7 +206,7 @@ deployment transaction hash:   <https://rinkeby.etherscan.io/tx/0x575c4e7023d2a4
 
 
 # Frontend 
-# Frontend(consumer Dapp)
+## Frontend - Consumer Dapp
 
 For running the Front End of the DAPP, open another terminal window and go inside the project directory, and run:
 
@@ -218,7 +219,7 @@ For running the Front End of the DAPP, open another terminal window and go insid
 
 Hosted website through github pages: https://ck-lim.github.io/brillinsupplychain/
 
-## Frontend Online - Vue (Enterprise SupplyChain)
+## Frontend Online - Vue - Enterprise SupplyChain
 
 Following there is a online version of Enterprise SupplyChain Fronted deployed in GitHub pages:
 [https://kirinshibori.github.io/DrugChainUI/](https://kirinshibori.github.io/DrugChainUI/).
