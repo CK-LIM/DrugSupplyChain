@@ -15,7 +15,9 @@
 		- [Transaction Hashes](#transaction-hashes)
 		- [Etherscan screenshots](#etherscan-screenshots)
 - [Frontend](#frontend)
-	- [Frontend Online - Vue](#frontend-online---vue))
+	- [Frontend Online - HTML ]
+	- [Frontend screenshots](#frontend-screenshots)
+	- [Frontend Online -Vue (Enterprise SupplyChain)]
 	- [Frontend screenshots](#frontend-screenshots)
 
 # Smart Contract - step by step
@@ -204,29 +206,21 @@ contract address:    0x4975415603247b763A9a315E23923fE29f4BD220
 deployment transaction hash:   <https://rinkeby.etherscan.io/tx/0x575c4e7023d2a4536337556d5e9cd07c9c46af8b0efbab3821026305a42c3764>
 
 
-### Etherscan screenshots
-
-<https://rinkeby.etherscan.io/address/0x82EE57820D2e9d4b1b2eCe739FEEc0acA61e3213>
-![alt text](docs/sm_deployed.png "Token")
-
-
-# Frontend
+# Frontend (consumer Dapp)
 
 For running the Front End of the DAPP, open another terminal window and go inside the project directory, and run:
 
 ```bash
-cd appvue
+> npm install
+> npm run start
 ```
-
-Then follow the instruction in [link](../appvue/)
-
-
-## Frontend Online - Vue
-
-Following there is a online version of Fronted deployed in GitHub pages:
-[https://kirinshibori.github.io/DrugChainUI/](https://kirinshibori.github.io/DrugChainUI/).
-
-
 ## Frontend screenshots
+![alt text](images/frontend1.png "Token")
 
-![alt text](docs/frontend_1.png "Token")
+## Frontend Online - Vue (Enterprise SupplyChain)
+
+Following there is a online version of Enterprise SupplyChain Fronted deployed in GitHub pages:
+[https://kirinshibori.github.io/DrugChainUI/](https://kirinshibori.github.io/DrugChainUI/).
+## Frontend screenshots
+![alt text](images/frontend2.png "Token")
+
