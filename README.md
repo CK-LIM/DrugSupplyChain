@@ -9,15 +9,12 @@
 - [Deployment](#deployment)
 	- [Ganache](#ganache)
 	- [Get some funds](#get-some-funds)
-	- [To deploy in Brinkeby](#to-deploy-in-brinkeby)
+	- [To deploy in rinkeby](#to-deploy-in-rinkeby)
 		- [Deployment Terminal Output](#deployment-terminal-output)
 		- [Contract Address](#contract-address)
 		- [Transaction Hashes](#transaction-hashes)
-		- [Etherscan screenshots](#etherscan-screenshots)
 - [Frontend](#frontend)
-	- [Frontend Online - HTML ]
 	- [Frontend screenshots](#frontend-screenshots)
-	- [Frontend Online -Vue (Enterprise SupplyChain)]
 	- [Frontend screenshots](#frontend-screenshots)
 
 # Smart Contract - step by step
@@ -215,12 +212,12 @@ For running the Front End of the DAPP, open another terminal window and go insid
 > npm run start
 ```
 ## Frontend screenshots
-![alt text](images/frontend1.png "Token")
+![alt text](images/frontend1.jpg "Token")
 
 ## Frontend Online - Vue (Enterprise SupplyChain)
 
 Following there is a online version of Enterprise SupplyChain Fronted deployed in GitHub pages:
 [https://kirinshibori.github.io/DrugChainUI/](https://kirinshibori.github.io/DrugChainUI/).
 ## Frontend screenshots
-![alt text](images/frontend2.png "Token")
+![alt text](images/frontend2.jpg "Token")
 
