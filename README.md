@@ -14,7 +14,7 @@
 		- [Contract Address](#contract-address)
 		- [Transaction Hashes](#transaction-hashes)
 - [Frontend](#frontend)
-	- [Frontend - Consumer Dapp](#frontend-consumer-dapp) 	
+	- [Frontend - Consumer Dapp](#frontend---consumer-dapp) 	
 	- [Frontend screenshots](#frontend-screenshots)
 	- [Frontend Online - Vue - Enterprise SupplyChain](#frontend-online---vue---enterprise-supplychain)
 	- [Frontend screenshots](#frontend-screenshots)
