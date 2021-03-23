@@ -16,7 +16,7 @@
 - [Frontend](#frontend)
 	- [Frontend - Consumer Dapp](#frontend-consumer-dapp) 	
 	- [Frontend screenshots](#frontend-screenshots)
-	- [Frontend Online - Vue - Enterprise SupplyChain](##frontend-online---vue---enterprise-supplychain)
+	- [Frontend Online - Vue - Enterprise SupplyChain](#frontend-online---vue---enterprise-supplychain)
 	- [Frontend screenshots](#frontend-screenshots)
 
 # Smart Contract - step by step
